@@ -27,6 +27,7 @@ The website allows customers to:
 | **About (about.html)** | Provides information about DressHub and brand values. |
 | **Contact (contact.html)** | Contact form for customer inquiries (name, email, message). |
 
+---
 
 ## Folder Structure
 dresshub/
@@ -44,6 +45,7 @@ dresshub/
 ├─ Open-Sandals.jpeg
 └─ Other product images
 
+---
 
 ## Technologies Used
 - **HTML5** – Semantic structure of all pages  
@@ -64,18 +66,13 @@ dresshub/
 
 ## Deployment
 - **Platform:** GitHub Pages  
-- **Repository URL:** `https://github.com/Kavush/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl`  
-- **Live Website URL:** `https://Kavush.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/`
+- **Repository URL:** [GitHub Repository](https://github.com/Kavush/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl)  
+- **Live Website URL:** [Live Site](https://kavush.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)  
 
 **Deployment Steps:**
 1. Push all project files to **your fork** on GitHub.  
-2. Enable GitHub Pages in your fork’s repository settings (branch: `main`, folder: `/root`).  
-3. Access your live site via the provided URL above.
-
-**Deployment Steps:**
-1. Push all project files to GitHub.  
-2. Enable GitHub Pages in repository settings (branch: main, folder: root).  
-3. Access the live site via the provided URL.  
+2. Enable GitHub Pages in repository settings (branch: `main`, folder: `/root`).  
+3. Access your live site via the provided URL.  
 
 ---
 
