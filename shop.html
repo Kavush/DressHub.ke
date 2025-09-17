@@ -37,8 +37,9 @@
     </div>
 
 <div class="product" onclick="showDetails('Jeans', 'Kshs 1200', '28, 30, 32, 34', 'Available')">      
-      <img src="images/mummy-jeans.jpeg" alt="Jeans">
-      <h3>Jeans</h3>
+  <img src="images/mummy-jeans.jpeg" alt="Jeans">
+  <h3>Jeans</h3>
+</div>
       
 <div class="product" onclick="showDetails('Leather Jacket', 'Kshs 2000', 'M, L, XL', 'Available')">      
       <img src="images/Cropped-Snake-print-Jacket-Kshs-2500.jpg" alt="Leather Jacket">
@@ -67,13 +68,13 @@
 
 <div class="product" onclick="showDetails('HandBag', 'Kshs 1500', 'One Size', 'Available')">      
       <img src="images/Bags.jpg" alt="Handbags">
-      <h3>Handbags</h3>
+      <h3>Handbag</h3>
     </div>
 
-<div class="product" onclick="showDetails('Sandals', 'Kshs 1500', '37, 38, 39', 40', 'Available')">      
-      <img src="images/Open-Sandals.jpeg" alt="Open Sandals">
-      <h3>Open Sandals</h3>
-    </div>
+<div class="product" onclick="showDetails('Sandals', 'Kshs 1500', '37, 38, 39, 40', 'Available')">      
+  <img src="images/Open-Sandals.jpeg" alt="Open Sandals">
+  <h3>Open Sandals</h3>
+</div>
 
 <div class="product" onclick="showDetails('Tote Bag', 'Kshs 1500', 'Medium', 'Available')">      
       <img src="images/Jute-Tote-Bags-Kshs-1150.jpg" alt="Jute Tote Bag">
@@ -84,6 +85,18 @@
       <img src="images/Summer-Dress.jpeg" alt="Summer Dress">
       <h3>Summer Dress</h3>
     </div>
+
+  <!-- Product Modal -->
+<div id="product-modal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <h2 id="product-name"></h2>
+    <p><strong>Price:</strong> <span id="product-price"></span></p>
+    <p><strong>Sizes:</strong> <span id="product-sizes"></span></p>
+    <p><strong>Availability:</strong> <span id="product-availability"></span></p>
+  </div>
+</div>
+
 
   </div>
 </section>
