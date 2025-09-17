@@ -27,7 +27,6 @@ The website allows customers to:
 | **About (about.html)** | Provides information about DressHub and brand values. |
 | **Contact (contact.html)** | Contact form for customer inquiries (name, email, message). |
 
----
 
 ## Folder Structure
 dresshub/
@@ -45,7 +44,6 @@ dresshub/
 ├─ Open-Sandals.jpeg
 └─ Other product images
 
----
 
 ## Technologies Used
 - **HTML5** – Semantic structure of all pages  
