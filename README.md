@@ -30,22 +30,25 @@ The website allows customers to:
 ---
 
 ## Folder Structure
+```
 dresshub/
 ├─ index.html
 ├─ shop.html
 ├─ about.html
 ├─ contact.html
 ├─ css/
-│ └─ styles.css ← All CSS styling
+│   └─ styles.css   ← All CSS styling
 ├─ js/
-│ └─ main.js ← JavaScript for hamburger menu + contact form
-└─ images/ ← All product images
-├─ Summer-Dress.jpeg
-├─ Tote-Bag.jpeg
-├─ Open-Sandals.jpeg
-└─ Other product images
+│   └─ main.js      ← JavaScript for hamburger menu + contact form
+└─ images/          ← All product images
+    ├─ Summer-Dress.jpeg
+    ├─ Tote-Bag.jpeg
+    ├─ Open-Sandals.jpeg
+    └─ Other product images
+```
 
----
+
+
 
 ## Technologies Used
 - **HTML5** – Semantic structure of all pages  
