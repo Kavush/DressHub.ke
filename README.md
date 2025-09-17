@@ -69,8 +69,9 @@ dresshub/
 
 ## Deployment
 - **Platform:** GitHub Pages  
-- **Repository URL:** [GitHub Repository](https://github.com/Kavush/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl)  
-- **Live Website URL:** [Live Site][(https://kavush.github.io/DressHub.ke/))  
+- **Repository URL:** [GitHub Repository](https://github.com/Kavush/DressHub.ke)  
+- **Live Website URL:** [Live Site](https://kavush.github.io/DressHub.ke/)  
+
 
 **Deployment Steps:**
 1. Push all project files to **your fork** on GitHub.  
